@@ -14,7 +14,7 @@ Center Matrix      0 0 X 0 0
                    0 0 0 0 0 
                    0 0 0 0 0 
 
-In the center center matrix the center is denoted by 'X'.Task is to find the total shift of rows and col for example matrix
+In the center matrix the center is denoted by 'X'.Task is to find the total shift of rows and col for example matrix
 to get to the center of the matrix.
 
 In this example : the example matric required 4 moves to to the center.
